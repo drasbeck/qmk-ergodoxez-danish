@@ -16,4 +16,5 @@ My attempt(s) at a Danish layout on the Preonic Rev3
 * ~~Upload illustration of keymap (Print Keymap button on QMK configurator was not working at the time of trying (2019-12-11 14:20)).~~
 * Describe files.
 * PR keymap into official repo.
+* Figure a gaming layer out (perhaps).
 * Improvements, improvements, improvements.
