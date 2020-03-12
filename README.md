@@ -14,3 +14,6 @@ TBD
 * PR keymap into official repo.
 * Figure a gaming layer out (perhaps).
 * Improvements, improvements, improvements.
+
+## Links
+* [This](https://github.com/qmk/qmk_firmware/blob/8ae83b490eb3f8ebc696c9531dff49bdfecd26ed/docs/feature_rgblight.md) might be useful if lighting is ever a thing.
