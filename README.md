@@ -5,7 +5,7 @@ My attempt(s) at a Danish layout on the ErgoDox-EZ Shine.
 TBD
 
 ## Layout
-TBD
+![keymap](./keymap.png)
 
 ## Todo
 * Upload illustration of keymap.
